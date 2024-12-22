@@ -1,6 +1,4 @@
-Here’s an updated README with the command lines to run the project, including the handling of requirements files for the backend and frontend:
 
----
 
 # Kubernetes Project
 
